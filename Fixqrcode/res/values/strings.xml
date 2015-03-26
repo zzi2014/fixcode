@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fixqrcode</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="open">打开</string>
+    <string name="photo">拍照</string>
+    <string name="pretreat">预处理</string>
+    <string name="restore">原图</string>
+    <string name="work">校正</string>
+    <string name="find">寻址</string>
+    <string name="one">一键完成</string>
+    <string name="recognize">识别</string>
+
+</resources>
